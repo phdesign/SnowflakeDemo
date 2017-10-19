@@ -1,6 +1,6 @@
 # SnowflakeDemo
 
-A simple demo of [Flakey](https://github.com/joshclark/Flakey/) using Base64-ish encoding to generate 11 digit ids fit for URLs.
+A simple demo of [Flakey](https://github.com/joshclark/Flakey/) using Base64-ish encoding to generate 11 digit semi-sequential ids fit for URLs.
 Encoded id's look like this:
 
 ```
